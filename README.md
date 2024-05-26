@@ -22,6 +22,7 @@ Optimize profits, minimize risks, and make DeFi more accessible and profitable f
 
 DeFi STS Bot is an innovative solution designed to optimize crypto assets and maximize profits. It offers a wide range of features, including coin sniping on listing, profitable swap and trading, making it a comprehensive tool for managing DeFi assets.
 
+[See more](https://sts-defi-bot.gitbook.io/selenium-bot)
 
 ## Key Features
 
@@ -60,7 +61,7 @@ Anti-bot systems are used by some cryptocurrency exchanges to prevent bots from 
 
 It is not recommended to use a virtual machine to preserve the integrity of private key encryption, fast connection, and stable operation of the program.
 
-
+[Read more](https://sts-defi-bot.gitbook.io/selenium-bot/basics/security-tips)
 ## Sniping Coins at Listing
 
 The listing sniping feature automates the purchase of coins as soon as they are listed on exchanges. This provides opportunities to capitalize on the price spikes that often occur when new coins are listed. Users can customize parameters to automatically buy at predetermined prices and volumes.
