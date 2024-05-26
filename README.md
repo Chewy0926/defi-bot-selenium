@@ -41,6 +41,7 @@ Optimize your assets with automated strategies that maximize returns without man
 
 Get recommendations based on your individual goals and portfolio to help you make informed decisions.
 
+[Learn more](https://sts-defi-bot.gitbook.io/selenium-bot/highlights/sniping-tips)
 
 ### Support for Leading Cryptocurrencies
 
